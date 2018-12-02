@@ -10,3 +10,4 @@ knowledge collection of machine learning
 * [DeepMind/RL.&DL.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [CNN cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * [NLP cs224n](https://www.youtube.com/results?search_query=cs224n)
+* [something about python](https://github.com/satwikkansal/wtfpython)
