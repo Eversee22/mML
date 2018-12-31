@@ -9,5 +9,5 @@ knowledge collection of machine learning
 * [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 * [DeepMind/RL.&DL.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [CNN cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-* [NLP cs224n](https://www.youtube.com/results?search_query=cs224n)
+* [cs229 notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)
 * [something about python](https://github.com/satwikkansal/wtfpython)
