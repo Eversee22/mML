@@ -12,3 +12,5 @@ knowledge collection of machine learning
 * [CNN cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 * [cs229 notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)
 * [something about python](https://github.com/satwikkansal/wtfpython)
+## book
+* [Deep Learning](http://www.deeplearningbook.org/contents/optimization.html)
