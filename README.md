@@ -13,4 +13,4 @@ knowledge collection of machine learning
 * [cs229 notes](https://wei2624.github.io/machine%20learning/Machine-Learning-Notes/)
 * [something about python](https://github.com/satwikkansal/wtfpython)
 ## book
-* [Deep Learning](http://www.deeplearningbook.org/contents/optimization.html)
+* [Deep Learning](http://www.deeplearningbook.org/)
