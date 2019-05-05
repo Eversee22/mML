@@ -16,6 +16,7 @@ knowledge collection of machine learning
 * [TSU coursework](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 * [USTC coursework](https://github.com/USTC-Resource/USTC-Course)
 * [PKU coursework](https://github.com/lib-pku/libpkuA)
+* [TSU_OS](https://github.com/chyyuu/os_course_info)
 ## AI book
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [Pumpkin Book(Z. Zhou. ML.)](https://github.com/datawhalechina/pumpkin-book)
