@@ -17,6 +17,7 @@ knowledge collection of machine learning
 * [USTC coursework](https://github.com/USTC-Resource/USTC-Course)
 * [PKU coursework](https://github.com/lib-pku/libpkuA)
 * [TSU_OS](https://github.com/chyyuu/os_course_info)
+* [GAN Roadmap](https://blog.floydhub.com/gans-story-so-far/)
 ## AI book
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [Pumpkin Book(Z. Zhou. ML.)](https://github.com/datawhalechina/pumpkin-book)
