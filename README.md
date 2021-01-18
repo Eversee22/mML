@@ -6,6 +6,7 @@ knowledge collection of machine learning
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/)
 * [Statistical Thinking for the 21st Century](http://thinkstats.org/StatsThinking21.pdf)
 * [causal inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+* [convex optimization](https://web.stanford.edu/~boyd/cvxbook/)
 ## learning resources
 * [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 * [DeepMind/RL.&DL.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
